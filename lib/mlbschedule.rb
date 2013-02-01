@@ -24,13 +24,13 @@ module Mlbschedule
 	end
 
 	def self.save(season = Time.now.year.to_s)
-		File.open("../data/season.dmp","w").write(Marshal.dump(self.retrieve_data(season)))
+		File.open("#{File.expand_path(File.dirname(__FILE__))}/../data/season.dmp","w").write(Marshal.dump(self.retrieve_data(season)))
 	end
 
 	def self.teams(season = Time.now.year.to_s, refresh= false)
 		if refresh
 			self.save(season)
 		end
-		Marshal.load(File.read("../data/season.dmp"))
+		Marshal.load(File.read("#{File.expand_path(File.dirname(__FILE__))}/../data/season.dmp"))
 	end
 end
