@@ -1,0 +1,2798 @@
+BEGIN:VCALENDAR
+PRODID:-//MLB.com//Schedule Calendar 0.001//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2013 New York Mets Schedule
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130223T121000
+DTEND;TZID=America/New_York:20130223T151000
+DTSTAMP:20130131T203444Z
+UID:362974@mlb.com
+CREATED:20121211T223452Z
+DESCRIPTION:Spring: Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_23_wasmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=02&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_23_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130224T121000
+DTEND;TZID=America/New_York:20130224T151000
+DTSTAMP:20130131T203444Z
+UID:362992@mlb.com
+CREATED:20121211T223454Z
+DESCRIPTION:Exhibition: Univ. of Michigan at NY Mets\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=02&y=2013\n
+LAST-MODIFIED:20130116T150852Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Exhibition: Univ. of Michigan at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_24_umwbbc_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130224T130500
+DTEND;TZID=America/New_York:20130224T160500
+DTSTAMP:20130131T203444Z
+UID:362985@mlb.com
+CREATED:20121211T223453Z
+DESCRIPTION:Spring: NY Mets at Houston\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_24_nynmlb_houmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=02&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Osceola County Stadium, Kissimmee
+SUMMARY:Spring: NY Mets at Houston
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_24_nynmlb_houmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130225T181000
+DTEND;TZID=America/New_York:20130225T211000
+DTSTAMP:20130131T203444Z
+UID:363008@mlb.com
+CREATED:20121211T223456Z
+DESCRIPTION:Spring: Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_25_wasmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=02&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_25_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130226T130500
+DTEND;TZID=America/New_York:20130226T160500
+DTSTAMP:20130131T203444Z
+UID:363019@mlb.com
+CREATED:20121211T223457Z
+DESCRIPTION:Spring: NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_26_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=02&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Roger Dean Stadium, Jupiter
+SUMMARY:Spring: NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_26_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130227T131000
+DTEND;TZID=America/New_York:20130227T161000
+DTSTAMP:20130131T203444Z
+UID:363038@mlb.com
+CREATED:20121211T223459Z
+DESCRIPTION:Spring: St. Louis at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_27_slnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=02&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: St. Louis at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_27_slnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130228T180500
+DTEND;TZID=America/New_York:20130228T210500
+DTSTAMP:20130131T203444Z
+UID:363053@mlb.com
+CREATED:20121211T223500Z
+DESCRIPTION:Spring: NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_28_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=02&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Space Coast Stadium, Viera
+SUMMARY:Spring: NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_02_28_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130301T131000
+DTEND;TZID=America/New_York:20130301T161000
+DTSTAMP:20130131T203444Z
+UID:363060@mlb.com
+CREATED:20121211T223501Z
+DESCRIPTION:Spring: Detroit at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_01_detmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Detroit at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_01_detmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130302T131000
+DTEND;TZID=America/New_York:20130302T161000
+DTSTAMP:20130131T203444Z
+UID:363082@mlb.com
+CREATED:20121211T223503Z
+DESCRIPTION:Spring: Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_02_miamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_02_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130303T130500
+DTEND;TZID=America/New_York:20130303T160500
+DTSTAMP:20130131T203444Z
+UID:363099@mlb.com
+CREATED:20121211T223505Z
+DESCRIPTION:Spring: NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_03_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Roger Dean Stadium, Jupiter
+SUMMARY:Spring: NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_03_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130304T131000
+DTEND;TZID=America/New_York:20130304T161000
+DTSTAMP:20130131T203444Z
+UID:363106@mlb.com
+CREATED:20121211T223506Z
+DESCRIPTION:Spring: Atlanta at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_04_atlmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Atlanta at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_04_atlmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130306T123500
+DTEND;TZID=America/New_York:20130306T153500
+DTSTAMP:20130131T203444Z
+UID:363147@mlb.com
+CREATED:20121211T223510Z
+DESCRIPTION:Exhibition: Venezuela at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_06_venint_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130119T003459Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Exhibition: Venezuela at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_06_venint_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130307T131000
+DTEND;TZID=America/New_York:20130307T161000
+DTSTAMP:20130131T203444Z
+UID:363154@mlb.com
+CREATED:20121211T223511Z
+DESCRIPTION:Spring: Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_07_miamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_07_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130308T130500
+DTEND;TZID=America/New_York:20130308T160500
+DTSTAMP:20130131T203444Z
+UID:363174@mlb.com
+CREATED:20121211T223513Z
+DESCRIPTION:Spring: NY Mets at Detroit\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_08_nynmlb_detmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Joker Marchant Stadium, Lakeland
+SUMMARY:Spring: NY Mets at Detroit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_08_nynmlb_detmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130309T131000
+DTEND;TZID=America/New_York:20130309T161000
+DTSTAMP:20130131T203444Z
+UID:363187@mlb.com
+CREATED:20121211T223515Z
+DESCRIPTION:Spring: Houston at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_09_houmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Houston at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_09_houmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130310T130500
+DTEND;TZID=America/New_York:20130310T160500
+DTSTAMP:20130131T203444Z
+UID:363205@mlb.com
+CREATED:20121211T223516Z
+DESCRIPTION:Spring: NY Mets at St. Louis\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_10_nynmlb_slnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Roger Dean Stadium, Jupiter
+SUMMARY:Spring: NY Mets at St. Louis
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_10_nynmlb_slnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130311T130500
+DTEND;TZID=America/New_York:20130311T160500
+DTSTAMP:20130131T203444Z
+UID:363221@mlb.com
+CREATED:20121211T223518Z
+DESCRIPTION:Spring: NY Mets at Detroit\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_11_nynmlb_detmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Joker Marchant Stadium, Lakeland
+SUMMARY:Spring: NY Mets at Detroit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_11_nynmlb_detmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130313T130500
+DTEND;TZID=America/New_York:20130313T160500
+DTSTAMP:20130131T203444Z
+UID:363243@mlb.com
+CREATED:20121211T223520Z
+DESCRIPTION:Spring: NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_13_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Space Coast Stadium, Viera
+SUMMARY:Spring: NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_13_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130314T131000
+DTEND;TZID=America/New_York:20130314T161000
+DTSTAMP:20130131T203444Z
+UID:363254@mlb.com
+CREATED:20121211T223522Z
+DESCRIPTION:Spring: Detroit at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_14_detmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Detroit at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_14_detmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130315T130500
+DTEND;TZID=America/New_York:20130315T160500
+DTSTAMP:20130131T203444Z
+UID:363271@mlb.com
+CREATED:20121211T223523Z
+DESCRIPTION:Spring: NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_15_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Champion Stadium, Lake Buena Vista
+SUMMARY:Spring: NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_15_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130316T131000
+DTEND;TZID=America/New_York:20130316T161000
+DTSTAMP:20130131T203444Z
+UID:363291@mlb.com
+CREATED:20121211T223525Z
+DESCRIPTION:Spring: Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_16_miamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_16_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130317T131000
+DTEND;TZID=America/New_York:20130317T161000
+DTSTAMP:20130131T203444Z
+UID:363299@mlb.com
+CREATED:20121211T223526Z
+DESCRIPTION:Spring: Atlanta at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_17_atlmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Atlanta at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_17_atlmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130318T130500
+DTEND;TZID=America/New_York:20130318T160500
+DTSTAMP:20130131T203444Z
+UID:363324@mlb.com
+CREATED:20121211T223529Z
+DESCRIPTION:Spring: NY Mets at St. Louis\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_18_nynmlb_slnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Roger Dean Stadium, Jupiter
+SUMMARY:Spring: NY Mets at St. Louis
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_18_nynmlb_slnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130320T180500
+DTEND;TZID=America/New_York:20130320T210500
+DTSTAMP:20130131T203444Z
+UID:363344@mlb.com
+CREATED:20121211T223531Z
+DESCRIPTION:Spring: NY Mets at Houston\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_20_nynmlb_houmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194428Z
+LOCATION:Osceola County Stadium, Kissimmee
+SUMMARY:Spring: NY Mets at Houston
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_20_nynmlb_houmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130321T131000
+DTEND;TZID=America/New_York:20130321T161000
+DTSTAMP:20130131T203444Z
+UID:363360@mlb.com
+CREATED:20121211T223533Z
+DESCRIPTION:Spring: St. Louis at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_21_slnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194428Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: St. Louis at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_21_slnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130322T190500
+DTEND;TZID=America/New_York:20130322T220500
+DTSTAMP:20130131T203444Z
+UID:363374@mlb.com
+CREATED:20121211T223534Z
+DESCRIPTION:Spring: NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_22_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194428Z
+LOCATION:Roger Dean Stadium, Jupiter
+SUMMARY:Spring: NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_22_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130323T131000
+DTEND;TZID=America/New_York:20130323T161000
+DTSTAMP:20130131T203444Z
+UID:363394@mlb.com
+CREATED:20121211T223536Z
+DESCRIPTION:Spring: Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_23_wasmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194428Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_23_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130324T130500
+DTEND;TZID=America/New_York:20130324T160500
+DTSTAMP:20130131T203444Z
+UID:363406@mlb.com
+CREATED:20121211T223538Z
+DESCRIPTION:Spring: NY Mets at St. Louis\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_24_nynmlb_slnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194428Z
+LOCATION:Roger Dean Stadium, Jupiter
+SUMMARY:Spring: NY Mets at St. Louis
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_24_nynmlb_slnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130324T131000
+DTEND;TZID=America/New_York:20130324T161000
+DTSTAMP:20130131T203444Z
+UID:363401@mlb.com
+CREATED:20121211T223537Z
+DESCRIPTION:Spring: Detroit at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_24_detmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194428Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Detroit at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_24_detmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130325T130500
+DTEND;TZID=America/New_York:20130325T160500
+DTSTAMP:20130131T203444Z
+UID:363417@mlb.com
+CREATED:20121211T223539Z
+DESCRIPTION:Spring: NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_25_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194428Z
+LOCATION:Champion Stadium, Lake Buena Vista
+SUMMARY:Spring: NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_25_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130326T131000
+DTEND;TZID=America/New_York:20130326T161000
+DTSTAMP:20130131T203444Z
+UID:363436@mlb.com
+CREATED:20121211T223541Z
+DESCRIPTION:Spring: St. Louis at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_26_slnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n\nLocal TV: ESPN
+LAST-MODIFIED:20130108T194428Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: St. Louis at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_26_slnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130327T181000
+DTEND;TZID=America/New_York:20130327T211000
+DTSTAMP:20130131T203444Z
+UID:363443@mlb.com
+CREATED:20121211T223541Z
+DESCRIPTION:Spring: Houston at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_27_houmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194428Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: Houston at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_27_houmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130328T130500
+DTEND;TZID=America/New_York:20130328T160500
+DTSTAMP:20130131T203444Z
+UID:363465@mlb.com
+CREATED:20121211T223544Z
+DESCRIPTION:Spring: NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_28_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n\nLocal TV: ESPN
+LAST-MODIFIED:20130108T194428Z
+LOCATION:Space Coast Stadium, Viera
+SUMMARY:Spring: NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_28_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130329T121000
+DTEND;TZID=America/New_York:20130329T151000
+DTSTAMP:20130131T203444Z
+UID:364974@mlb.com
+CREATED:20130102T193652Z
+DESCRIPTION:Spring: St. Louis at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_29_slnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Mets Stadium, Port St. Lucie
+SUMMARY:Spring: St. Louis at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_29_slnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130330T120500
+DTEND;TZID=America/New_York:20130330T150500
+DTSTAMP:20130131T203444Z
+UID:363481@mlb.com
+CREATED:20121211T223545Z
+DESCRIPTION:Spring: NY Mets at Baltimore\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_30_nynmlb_balmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=03&y=2013\n
+LAST-MODIFIED:20130108T194428Z
+LOCATION:Ed Smith Stadium, Sarasota
+SUMMARY:Spring: NY Mets at Baltimore
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_03_30_nynmlb_balmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130401T131000
+DTEND;TZID=America/New_York:20130401T161000
+DTSTAMP:20130131T203444Z
+UID:346189@mlb.com
+CREATED:20120910T223725Z
+DESCRIPTION:San Diego at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_01_sdnmlb_nynmlb_1\n\nPromotions/Giveaways: \n    Magnetic TV Schedule\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:San Diego at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_01_sdnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130403T191000
+DTEND;TZID=America/New_York:20130403T221000
+DTSTAMP:20130131T203444Z
+UID:346770@mlb.com
+CREATED:20120910T223728Z
+DESCRIPTION:San Diego at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_03_sdnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:San Diego at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_03_sdnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130404T131000
+DTEND;TZID=America/New_York:20130404T161000
+DTSTAMP:20130131T203444Z
+UID:346785@mlb.com
+CREATED:20120910T223730Z
+DESCRIPTION:San Diego at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_04_sdnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:San Diego at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_04_sdnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130405T191000
+DTEND;TZID=America/New_York:20130405T221000
+DTSTAMP:20130131T203444Z
+UID:346792@mlb.com
+CREATED:20120910T223731Z
+DESCRIPTION:Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_05_miamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_05_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130406T131000
+DTEND;TZID=America/New_York:20130406T161000
+DTSTAMP:20130131T203444Z
+UID:346808@mlb.com
+CREATED:20120910T223733Z
+DESCRIPTION:Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_06_miamlb_nynmlb_1\n\nPromotions/Giveaways: \n    Calendar\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_06_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130407T131000
+DTEND;TZID=America/New_York:20130407T161000
+DTSTAMP:20130131T203444Z
+UID:346822@mlb.com
+CREATED:20120910T223734Z
+DESCRIPTION:Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_07_miamlb_nynmlb_1\n\nPromotions/Giveaways: \n    Drawstring Bag\n    Mr. Met Dash\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_07_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130408T190500
+DTEND;TZID=America/New_York:20130408T220500
+DTSTAMP:20130131T203444Z
+UID:346842@mlb.com
+CREATED:20120910T223738Z
+DESCRIPTION:NY Mets at Philadelphia\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_08_nynmlb_phimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citizens Bank Park, Philadelphia
+SUMMARY:NY Mets at Philadelphia
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_08_nynmlb_phimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130409T190500
+DTEND;TZID=America/New_York:20130409T220500
+DTSTAMP:20130131T203444Z
+UID:346855@mlb.com
+CREATED:20120910T223739Z
+DESCRIPTION:NY Mets at Philadelphia\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_09_nynmlb_phimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Citizens Bank Park, Philadelphia
+SUMMARY:NY Mets at Philadelphia
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_09_nynmlb_phimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130410T190500
+DTEND;TZID=America/New_York:20130410T220500
+DTSTAMP:20130131T203444Z
+UID:346871@mlb.com
+CREATED:20120910T223741Z
+DESCRIPTION:NY Mets at Philadelphia\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_10_nynmlb_phimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Citizens Bank Park, Philadelphia
+SUMMARY:NY Mets at Philadelphia
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_10_nynmlb_phimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130412T201000
+DTEND;TZID=America/New_York:20130412T231000
+DTSTAMP:20130131T203444Z
+UID:346890@mlb.com
+CREATED:20120910T223744Z
+DESCRIPTION:NY Mets at Minnesota\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_12_nynmlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:NY Mets at Minnesota
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_12_nynmlb_minmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130413T161000
+DTEND;TZID=America/New_York:20130413T191000
+DTSTAMP:20130131T203444Z
+UID:346905@mlb.com
+CREATED:20120910T223745Z
+DESCRIPTION:NY Mets at Minnesota\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_13_nynmlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130121T194635Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:NY Mets at Minnesota
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_13_nynmlb_minmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130414T141000
+DTEND;TZID=America/New_York:20130414T171000
+DTSTAMP:20130131T203444Z
+UID:346920@mlb.com
+CREATED:20120910T223747Z
+DESCRIPTION:NY Mets at Minnesota\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_14_nynmlb_minmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Target Field, Minneapolis
+SUMMARY:NY Mets at Minnesota
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_14_nynmlb_minmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130415T204000
+DTEND;TZID=America/New_York:20130415T234000
+DTSTAMP:20130131T203444Z
+UID:346929@mlb.com
+CREATED:20120910T223748Z
+DESCRIPTION:NY Mets at Colorado\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_15_nynmlb_colmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Coors Field, Denver
+SUMMARY:NY Mets at Colorado
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_15_nynmlb_colmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130416T204000
+DTEND;TZID=America/New_York:20130416T234000
+DTSTAMP:20130131T203444Z
+UID:346941@mlb.com
+CREATED:20120910T223750Z
+DESCRIPTION:NY Mets at Colorado\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_16_nynmlb_colmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Coors Field, Denver
+SUMMARY:NY Mets at Colorado
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_16_nynmlb_colmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130417T204000
+DTEND;TZID=America/New_York:20130417T234000
+DTSTAMP:20130131T203444Z
+UID:346956@mlb.com
+CREATED:20120910T223752Z
+DESCRIPTION:NY Mets at Colorado\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_17_nynmlb_colmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Coors Field, Denver
+SUMMARY:NY Mets at Colorado
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_17_nynmlb_colmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130418T151000
+DTEND;TZID=America/New_York:20130418T181000
+DTSTAMP:20130131T203444Z
+UID:346970@mlb.com
+CREATED:20120910T223753Z
+DESCRIPTION:NY Mets at Colorado\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_18_nynmlb_colmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Coors Field, Denver
+SUMMARY:NY Mets at Colorado
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_18_nynmlb_colmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130419T191000
+DTEND;TZID=America/New_York:20130419T221000
+DTSTAMP:20130131T203444Z
+UID:346988@mlb.com
+CREATED:20120910T223755Z
+DESCRIPTION:Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_19_wasmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_19_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130420T150500
+DTEND;TZID=America/New_York:20130420T180500
+DTSTAMP:20130131T203444Z
+UID:347004@mlb.com
+CREATED:20120910T223757Z
+DESCRIPTION:Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_20_wasmlb_nynmlb_1\n\nPromotions/Giveaways: \n    Bark in the Park at Citi Field\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_20_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130421T131000
+DTEND;TZID=America/New_York:20130421T161000
+DTSTAMP:20130131T203444Z
+UID:347018@mlb.com
+CREATED:20120910T223759Z
+DESCRIPTION:Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_21_wasmlb_nynmlb_1\n\nPromotions/Giveaways: \n    Ron Darling Bobblehead\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_21_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130423T191000
+DTEND;TZID=America/New_York:20130423T221000
+DTSTAMP:20130131T203444Z
+UID:347040@mlb.com
+CREATED:20120910T223802Z
+DESCRIPTION:LA Dodgers at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_23_lanmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:LA Dodgers at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_23_lanmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130424T191000
+DTEND;TZID=America/New_York:20130424T221000
+DTSTAMP:20130131T203444Z
+UID:347055@mlb.com
+CREATED:20120910T223804Z
+DESCRIPTION:LA Dodgers at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_24_lanmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:LA Dodgers at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_24_lanmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130425T131000
+DTEND;TZID=America/New_York:20130425T161000
+DTSTAMP:20130131T203444Z
+UID:347069@mlb.com
+CREATED:20120910T223805Z
+DESCRIPTION:LA Dodgers at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_25_lanmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:LA Dodgers at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_25_lanmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130426T191000
+DTEND;TZID=America/New_York:20130426T221000
+DTSTAMP:20130131T203444Z
+UID:347082@mlb.com
+CREATED:20120910T223807Z
+DESCRIPTION:Philadelphia at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_26_phimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Philadelphia at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_26_phimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130427T130500
+DTEND;TZID=America/New_York:20130427T160500
+DTSTAMP:20130131T203444Z
+UID:347099@mlb.com
+CREATED:20120910T223809Z
+DESCRIPTION:Philadelphia at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_27_phimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Philadelphia at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_27_phimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130428T131000
+DTEND;TZID=America/New_York:20130428T161000
+DTSTAMP:20130131T203444Z
+UID:347113@mlb.com
+CREATED:20120910T223811Z
+DESCRIPTION:Philadelphia at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_28_phimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Philadelphia at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_28_phimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130429T191000
+DTEND;TZID=America/New_York:20130429T221000
+DTSTAMP:20130131T203444Z
+UID:347128@mlb.com
+CREATED:20120910T223812Z
+DESCRIPTION:NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_29_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Marlins Park, Miami
+SUMMARY:NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_29_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130430T191000
+DTEND;TZID=America/New_York:20130430T221000
+DTSTAMP:20130131T203444Z
+UID:347143@mlb.com
+CREATED:20120910T223814Z
+DESCRIPTION:NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_30_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=04&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Marlins Park, Miami
+SUMMARY:NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_04_30_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130501T124000
+DTEND;TZID=America/New_York:20130501T154000
+DTSTAMP:20130131T203444Z
+UID:347157@mlb.com
+CREATED:20120910T223816Z
+DESCRIPTION:NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_01_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Marlins Park, Miami
+SUMMARY:NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_01_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130503T193000
+DTEND;TZID=America/New_York:20130503T223000
+DTSTAMP:20130131T203444Z
+UID:347180@mlb.com
+CREATED:20120910T223818Z
+DESCRIPTION:NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_03_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Turner Field, Atlanta
+SUMMARY:NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_03_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130504T191000
+DTEND;TZID=America/New_York:20130504T221000
+DTSTAMP:20130131T203444Z
+UID:347195@mlb.com
+CREATED:20120910T223820Z
+DESCRIPTION:NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_04_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Turner Field, Atlanta
+SUMMARY:NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_04_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130505T133500
+DTEND;TZID=America/New_York:20130505T163500
+DTSTAMP:20130131T203444Z
+UID:347210@mlb.com
+CREATED:20120910T223822Z
+DESCRIPTION:NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_05_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Turner Field, Atlanta
+SUMMARY:NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_05_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130507T191000
+DTEND;TZID=America/New_York:20130507T221000
+DTSTAMP:20130131T203444Z
+UID:347226@mlb.com
+CREATED:20120910T223824Z
+DESCRIPTION:Chi White Sox at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_07_chamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Chi White Sox at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_07_chamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130508T191000
+DTEND;TZID=America/New_York:20130508T221000
+DTSTAMP:20130131T203444Z
+UID:347241@mlb.com
+CREATED:20120910T223825Z
+DESCRIPTION:Chi White Sox at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_08_chamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Chi White Sox at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_08_chamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130509T191000
+DTEND;TZID=America/New_York:20130509T221000
+DTSTAMP:20130131T203444Z
+UID:347261@mlb.com
+CREATED:20120910T223827Z
+DESCRIPTION:Pittsburgh at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_09_pitmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Pittsburgh at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_09_pitmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130510T191000
+DTEND;TZID=America/New_York:20130510T221000
+DTSTAMP:20130131T203444Z
+UID:347271@mlb.com
+CREATED:20120910T223829Z
+DESCRIPTION:Pittsburgh at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_10_pitmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Pittsburgh at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_10_pitmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130511T131000
+DTEND;TZID=America/New_York:20130511T161000
+DTSTAMP:20130131T203444Z
+UID:347289@mlb.com
+CREATED:20120910T223831Z
+DESCRIPTION:Pittsburgh at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_11_pitmlb_nynmlb_1\n\nPromotions/Giveaways: \n    Banner Day\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Pittsburgh at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_11_pitmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130512T131000
+DTEND;TZID=America/New_York:20130512T161000
+DTSTAMP:20130131T203444Z
+UID:347302@mlb.com
+CREATED:20120910T223832Z
+DESCRIPTION:Pittsburgh at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_12_pitmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Pittsburgh at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_12_pitmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130513T190500
+DTEND;TZID=America/New_York:20130513T220500
+DTSTAMP:20130131T203444Z
+UID:347315@mlb.com
+CREATED:20120910T223834Z
+DESCRIPTION:NY Mets at St. Louis\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_13_nynmlb_slnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Busch Stadium, St. Louis
+SUMMARY:NY Mets at St. Louis
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_13_nynmlb_slnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130514T201500
+DTEND;TZID=America/New_York:20130514T231500
+DTSTAMP:20130131T203444Z
+UID:347330@mlb.com
+CREATED:20120910T223835Z
+DESCRIPTION:NY Mets at St. Louis\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_14_nynmlb_slnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Busch Stadium, St. Louis
+SUMMARY:NY Mets at St. Louis
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_14_nynmlb_slnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130515T201500
+DTEND;TZID=America/New_York:20130515T231500
+DTSTAMP:20130131T203444Z
+UID:347345@mlb.com
+CREATED:20120910T223837Z
+DESCRIPTION:NY Mets at St. Louis\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_15_nynmlb_slnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Busch Stadium, St. Louis
+SUMMARY:NY Mets at St. Louis
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_15_nynmlb_slnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130516T134500
+DTEND;TZID=America/New_York:20130516T164500
+DTSTAMP:20130131T203444Z
+UID:347354@mlb.com
+CREATED:20120910T223838Z
+DESCRIPTION:NY Mets at St. Louis\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_16_nynmlb_slnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Busch Stadium, St. Louis
+SUMMARY:NY Mets at St. Louis
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_16_nynmlb_slnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130517T142000
+DTEND;TZID=America/New_York:20130517T172000
+DTSTAMP:20130131T203444Z
+UID:347362@mlb.com
+CREATED:20120910T223839Z
+DESCRIPTION:NY Mets at Chi Cubs\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_17_nynmlb_chnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Wrigley Field, Chicago
+SUMMARY:NY Mets at Chi Cubs
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_17_nynmlb_chnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130518T130500
+DTEND;TZID=America/New_York:20130518T160500
+DTSTAMP:20130131T203444Z
+UID:347378@mlb.com
+CREATED:20120910T223841Z
+DESCRIPTION:NY Mets at Chi Cubs\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_18_nynmlb_chnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130121T204343Z
+LOCATION:Wrigley Field, Chicago
+SUMMARY:NY Mets at Chi Cubs
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_18_nynmlb_chnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130519T142000
+DTEND;TZID=America/New_York:20130519T172000
+DTSTAMP:20130131T203444Z
+UID:347392@mlb.com
+CREATED:20120910T223843Z
+DESCRIPTION:NY Mets at Chi Cubs\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_19_nynmlb_chnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Wrigley Field, Chicago
+SUMMARY:NY Mets at Chi Cubs
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_19_nynmlb_chnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130520T191000
+DTEND;TZID=America/New_York:20130520T221000
+DTSTAMP:20130131T203444Z
+UID:347403@mlb.com
+CREATED:20120910T223844Z
+DESCRIPTION:Cincinnati at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_20_cinmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Cincinnati at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_20_cinmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130521T191000
+DTEND;TZID=America/New_York:20130521T221000
+DTSTAMP:20130131T203444Z
+UID:347417@mlb.com
+CREATED:20120910T223846Z
+DESCRIPTION:Cincinnati at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_21_cinmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Cincinnati at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_21_cinmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130522T131000
+DTEND;TZID=America/New_York:20130522T161000
+DTSTAMP:20130131T203444Z
+UID:347432@mlb.com
+CREATED:20120910T223847Z
+DESCRIPTION:Cincinnati at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_22_cinmlb_nynmlb_1\n\nPromotions/Giveaways: \n    Gift Card\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Cincinnati at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_22_cinmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130524T191000
+DTEND;TZID=America/New_York:20130524T221000
+DTSTAMP:20130131T203444Z
+UID:347450@mlb.com
+CREATED:20120910T223849Z
+DESCRIPTION:Atlanta at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_24_atlmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Atlanta at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_24_atlmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130525T191500
+DTEND;TZID=America/New_York:20130525T221500
+DTSTAMP:20130131T203444Z
+UID:347465@mlb.com
+CREATED:20120910T223851Z
+DESCRIPTION:Atlanta at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_25_atlmlb_nynmlb_1\n\nPromotions/Giveaways: \n    John Franco Bobblehead\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130118T194552Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Atlanta at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_25_atlmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130526T200500
+DTEND;TZID=America/New_York:20130526T230500
+DTSTAMP:20130131T203444Z
+UID:347480@mlb.com
+CREATED:20120910T223853Z
+DESCRIPTION:Atlanta at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_26_atlmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n\nLocal TV: ESPN
+LAST-MODIFIED:20130118T215326Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Atlanta at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_26_atlmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130527T191000
+DTEND;TZID=America/New_York:20130527T221000
+DTSTAMP:20130131T203444Z
+UID:347499@mlb.com
+CREATED:20120910T223855Z
+DESCRIPTION:NY Yankees at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_27_nyamlb_nynmlb_1\n\nPromotions/Giveaways: \n    Cap Trade\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:NY Yankees at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_27_nyamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130528T191000
+DTEND;TZID=America/New_York:20130528T221000
+DTSTAMP:20130131T203444Z
+UID:347515@mlb.com
+CREATED:20120910T223857Z
+DESCRIPTION:NY Yankees at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_28_nyamlb_nynmlb_1\n\nPromotions/Giveaways: \n    Cap Trade\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:NY Yankees at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_28_nyamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130529T190500
+DTEND;TZID=America/New_York:20130529T220500
+DTSTAMP:20130131T203444Z
+UID:347531@mlb.com
+CREATED:20120910T223858Z
+DESCRIPTION:NY Mets at NY Yankees\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_29_nynmlb_nyamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Yankee Stadium, Bronx
+SUMMARY:NY Mets at NY Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_29_nynmlb_nyamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130530T190500
+DTEND;TZID=America/New_York:20130530T220500
+DTSTAMP:20130131T203444Z
+UID:347546@mlb.com
+CREATED:20120910T223900Z
+DESCRIPTION:NY Mets at NY Yankees\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_30_nynmlb_nyamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Yankee Stadium, Bronx
+SUMMARY:NY Mets at NY Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_30_nynmlb_nyamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130531T191000
+DTEND;TZID=America/New_York:20130531T221000
+DTSTAMP:20130131T203444Z
+UID:347567@mlb.com
+CREATED:20120910T223902Z
+DESCRIPTION:NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_31_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=05&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Marlins Park, Miami
+SUMMARY:NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_05_31_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130601T160000
+DTEND;TZID=America/New_York:20130601T190000
+DTSTAMP:20130131T203444Z
+UID:347583@mlb.com
+CREATED:20120910T223904Z
+DESCRIPTION:NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_01_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130131T195759Z
+LOCATION:Marlins Park, Miami
+SUMMARY:NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_01_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130602T131000
+DTEND;TZID=America/New_York:20130602T161000
+DTSTAMP:20130131T203444Z
+UID:347596@mlb.com
+CREATED:20120910T223906Z
+DESCRIPTION:NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_02_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Marlins Park, Miami
+SUMMARY:NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_02_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130604T190500
+DTEND;TZID=America/New_York:20130604T220500
+DTSTAMP:20130131T203444Z
+UID:347613@mlb.com
+CREATED:20120910T223908Z
+DESCRIPTION:NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_04_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130124T163723Z
+LOCATION:Nationals Park, Washington
+SUMMARY:NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_04_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130605T190500
+DTEND;TZID=America/New_York:20130605T220500
+DTSTAMP:20130131T203444Z
+UID:347628@mlb.com
+CREATED:20120910T223910Z
+DESCRIPTION:NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_05_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130124T163723Z
+LOCATION:Nationals Park, Washington
+SUMMARY:NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_05_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130606T190500
+DTEND;TZID=America/New_York:20130606T220500
+DTSTAMP:20130131T203444Z
+UID:347640@mlb.com
+CREATED:20120910T223911Z
+DESCRIPTION:NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_06_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130124T163724Z
+LOCATION:Nationals Park, Washington
+SUMMARY:NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_06_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130607T191000
+DTEND;TZID=America/New_York:20130607T221000
+DTSTAMP:20130131T203444Z
+UID:347653@mlb.com
+CREATED:20120910T223912Z
+DESCRIPTION:Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_07_miamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_07_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130608T131000
+DTEND;TZID=America/New_York:20130608T161000
+DTSTAMP:20130131T203444Z
+UID:347669@mlb.com
+CREATED:20120910T223914Z
+DESCRIPTION:Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_08_miamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_08_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130609T131000
+DTEND;TZID=America/New_York:20130609T161000
+DTSTAMP:20130131T203444Z
+UID:347684@mlb.com
+CREATED:20120910T223916Z
+DESCRIPTION:Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_09_miamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_09_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130611T191000
+DTEND;TZID=America/New_York:20130611T221000
+DTSTAMP:20130131T203444Z
+UID:347713@mlb.com
+CREATED:20120910T223919Z
+DESCRIPTION:St. Louis at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_11_slnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:St. Louis at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_11_slnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130612T191000
+DTEND;TZID=America/New_York:20130612T221000
+DTSTAMP:20130131T203444Z
+UID:347728@mlb.com
+CREATED:20120910T223921Z
+DESCRIPTION:St. Louis at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_12_slnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:St. Louis at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_12_slnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130613T131000
+DTEND;TZID=America/New_York:20130613T161000
+DTSTAMP:20130131T203444Z
+UID:347740@mlb.com
+CREATED:20120910T223922Z
+DESCRIPTION:St. Louis at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_13_slnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:St. Louis at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_13_slnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130614T191000
+DTEND;TZID=America/New_York:20130614T221000
+DTSTAMP:20130131T203444Z
+UID:347746@mlb.com
+CREATED:20120910T223923Z
+DESCRIPTION:Chi Cubs at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_14_chnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Chi Cubs at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_14_chnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130615T131000
+DTEND;TZID=America/New_York:20130615T161000
+DTSTAMP:20130131T203444Z
+UID:347761@mlb.com
+CREATED:20120910T223924Z
+DESCRIPTION:Chi Cubs at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_15_chnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Chi Cubs at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_15_chnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130616T131000
+DTEND;TZID=America/New_York:20130616T161000
+DTSTAMP:20130131T203444Z
+UID:347776@mlb.com
+CREATED:20120910T223926Z
+DESCRIPTION:Chi Cubs at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_16_chnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Chi Cubs at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_16_chnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130617T191000
+DTEND;TZID=America/New_York:20130617T221000
+DTSTAMP:20130131T203444Z
+UID:347792@mlb.com
+CREATED:20120910T223928Z
+DESCRIPTION:NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_17_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Turner Field, Atlanta
+SUMMARY:NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_17_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130618T191000
+DTEND;TZID=America/New_York:20130618T221000
+DTSTAMP:20130131T203444Z
+UID:347806@mlb.com
+CREATED:20120910T223930Z
+DESCRIPTION:NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_18_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Turner Field, Atlanta
+SUMMARY:NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_18_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130619T191000
+DTEND;TZID=America/New_York:20130619T221000
+DTSTAMP:20130131T203444Z
+UID:347821@mlb.com
+CREATED:20120910T223931Z
+DESCRIPTION:NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_19_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Turner Field, Atlanta
+SUMMARY:NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_19_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130620T191000
+DTEND;TZID=America/New_York:20130620T221000
+DTSTAMP:20130131T203444Z
+UID:347836@mlb.com
+CREATED:20120910T223933Z
+DESCRIPTION:NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_20_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Turner Field, Atlanta
+SUMMARY:NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_20_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130621T190500
+DTEND;TZID=America/New_York:20130621T220500
+DTSTAMP:20130131T203444Z
+UID:347852@mlb.com
+CREATED:20120910T223935Z
+DESCRIPTION:NY Mets at Philadelphia\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_21_nynmlb_phimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Citizens Bank Park, Philadelphia
+SUMMARY:NY Mets at Philadelphia
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_21_nynmlb_phimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130622T160500
+DTEND;TZID=America/New_York:20130622T190500
+DTSTAMP:20130131T203444Z
+UID:347871@mlb.com
+CREATED:20120910T223937Z
+DESCRIPTION:NY Mets at Philadelphia\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_22_nynmlb_phimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Citizens Bank Park, Philadelphia
+SUMMARY:NY Mets at Philadelphia
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_22_nynmlb_phimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130623T133500
+DTEND;TZID=America/New_York:20130623T163500
+DTSTAMP:20130131T203444Z
+UID:347883@mlb.com
+CREATED:20120910T223939Z
+DESCRIPTION:NY Mets at Philadelphia\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_23_nynmlb_phimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Citizens Bank Park, Philadelphia
+SUMMARY:NY Mets at Philadelphia
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_23_nynmlb_phimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130625T201000
+DTEND;TZID=America/New_York:20130625T231000
+DTSTAMP:20130131T203444Z
+UID:347897@mlb.com
+CREATED:20120910T223940Z
+DESCRIPTION:NY Mets at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_25_nynmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:NY Mets at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_25_nynmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130626T201000
+DTEND;TZID=America/New_York:20130626T231000
+DTSTAMP:20130131T203444Z
+UID:347912@mlb.com
+CREATED:20120910T223942Z
+DESCRIPTION:NY Mets at Chi White Sox\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_26_nynmlb_chamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194435Z
+LOCATION:U.S. Cellular Field, Chicago
+SUMMARY:NY Mets at Chi White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_26_nynmlb_chamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130628T191000
+DTEND;TZID=America/New_York:20130628T221000
+DTSTAMP:20130131T203444Z
+UID:347940@mlb.com
+CREATED:20120910T223945Z
+DESCRIPTION:Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_28_wasmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_28_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130629T131000
+DTEND;TZID=America/New_York:20130629T161000
+DTSTAMP:20130131T203444Z
+UID:347957@mlb.com
+CREATED:20120910T223947Z
+DESCRIPTION:Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_29_wasmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_29_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130630T131000
+DTEND;TZID=America/New_York:20130630T161000
+DTSTAMP:20130131T203444Z
+UID:347971@mlb.com
+CREATED:20120910T223948Z
+DESCRIPTION:Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_30_wasmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=06&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_06_30_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130701T191000
+DTEND;TZID=America/New_York:20130701T221000
+DTSTAMP:20130131T203444Z
+UID:347974@mlb.com
+CREATED:20120910T223949Z
+DESCRIPTION:Arizona at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_01_arimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194429Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Arizona at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_01_arimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130702T191000
+DTEND;TZID=America/New_York:20130702T221000
+DTSTAMP:20130131T203444Z
+UID:347981@mlb.com
+CREATED:20120910T223950Z
+DESCRIPTION:Arizona at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_02_arimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Arizona at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_02_arimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130703T191000
+DTEND;TZID=America/New_York:20130703T221000
+DTSTAMP:20130131T203444Z
+UID:347996@mlb.com
+CREATED:20120910T223952Z
+DESCRIPTION:Arizona at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_03_arimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Arizona at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_03_arimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130704T131000
+DTEND;TZID=America/New_York:20130704T161000
+DTSTAMP:20130131T203444Z
+UID:348011@mlb.com
+CREATED:20120910T223954Z
+DESCRIPTION:Arizona at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_04_arimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Arizona at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_04_arimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130705T201000
+DTEND;TZID=America/New_York:20130705T231000
+DTSTAMP:20130131T203444Z
+UID:348039@mlb.com
+CREATED:20120910T223957Z
+DESCRIPTION:NY Mets at Milwaukee\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_05_nynmlb_milmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Miller Park, Milwaukee
+SUMMARY:NY Mets at Milwaukee
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_05_nynmlb_milmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130706T191500
+DTEND;TZID=America/New_York:20130706T221500
+DTSTAMP:20130131T203444Z
+UID:348049@mlb.com
+CREATED:20120910T223958Z
+DESCRIPTION:NY Mets at Milwaukee\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_06_nynmlb_milmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Miller Park, Milwaukee
+SUMMARY:NY Mets at Milwaukee
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_06_nynmlb_milmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130707T141000
+DTEND;TZID=America/New_York:20130707T171000
+DTSTAMP:20130131T203444Z
+UID:348069@mlb.com
+CREATED:20120910T224000Z
+DESCRIPTION:NY Mets at Milwaukee\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_07_nynmlb_milmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Miller Park, Milwaukee
+SUMMARY:NY Mets at Milwaukee
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_07_nynmlb_milmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130708T221500
+DTEND;TZID=America/New_York:20130709T011500
+DTSTAMP:20130131T203444Z
+UID:348076@mlb.com
+CREATED:20120910T224001Z
+DESCRIPTION:NY Mets at San Francisco\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_08_nynmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:AT&T Park, San Francisco
+SUMMARY:NY Mets at San Francisco
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_08_nynmlb_sfnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130709T221500
+DTEND;TZID=America/New_York:20130710T011500
+DTSTAMP:20130131T203444Z
+UID:348089@mlb.com
+CREATED:20120910T224002Z
+DESCRIPTION:NY Mets at San Francisco\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_09_nynmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:AT&T Park, San Francisco
+SUMMARY:NY Mets at San Francisco
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_09_nynmlb_sfnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130710T154500
+DTEND;TZID=America/New_York:20130710T184500
+DTSTAMP:20130131T203444Z
+UID:348104@mlb.com
+CREATED:20120910T224004Z
+DESCRIPTION:NY Mets at San Francisco\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_10_nynmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:AT&T Park, San Francisco
+SUMMARY:NY Mets at San Francisco
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_10_nynmlb_sfnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130712T190500
+DTEND;TZID=America/New_York:20130712T220500
+DTSTAMP:20130131T203444Z
+UID:348131@mlb.com
+CREATED:20120910T224007Z
+DESCRIPTION:NY Mets at Pittsburgh\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_12_nynmlb_pitmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:PNC Park, Pittsburgh
+SUMMARY:NY Mets at Pittsburgh
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_12_nynmlb_pitmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130713T191500
+DTEND;TZID=America/New_York:20130713T221500
+DTSTAMP:20130131T203444Z
+UID:348148@mlb.com
+CREATED:20120910T224009Z
+DESCRIPTION:NY Mets at Pittsburgh\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_13_nynmlb_pitmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:PNC Park, Pittsburgh
+SUMMARY:NY Mets at Pittsburgh
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_13_nynmlb_pitmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130714T133500
+DTEND;TZID=America/New_York:20130714T163500
+DTSTAMP:20130131T203444Z
+UID:348162@mlb.com
+CREATED:20120910T224011Z
+DESCRIPTION:NY Mets at Pittsburgh\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_14_nynmlb_pitmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:PNC Park, Pittsburgh
+SUMMARY:NY Mets at Pittsburgh
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_14_nynmlb_pitmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130716T033300
+DTEND;TZID=America/New_York:20130716T063300
+DTSTAMP:20130131T203444Z
+UID:348170@mlb.com
+CREATED:20120910T224011Z
+DESCRIPTION:All-Star: AL All-Stars at NL All-Stars\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_16_aasmlb_nasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:All-Star: AL All-Stars at NL All-Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_16_aasmlb_nasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130719T191000
+DTEND;TZID=America/New_York:20130719T221000
+DTSTAMP:20130131T203444Z
+UID:348180@mlb.com
+CREATED:20120910T224013Z
+DESCRIPTION:Philadelphia at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_19_phimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Philadelphia at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_19_phimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130720T131000
+DTEND;TZID=America/New_York:20130720T161000
+DTSTAMP:20130131T203444Z
+UID:348196@mlb.com
+CREATED:20120910T224014Z
+DESCRIPTION:Philadelphia at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_20_phimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Philadelphia at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_20_phimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130721T131000
+DTEND;TZID=America/New_York:20130721T161000
+DTSTAMP:20130131T203444Z
+UID:348210@mlb.com
+CREATED:20120910T224016Z
+DESCRIPTION:Philadelphia at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_21_phimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Philadelphia at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_21_phimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130722T191000
+DTEND;TZID=America/New_York:20130722T221000
+DTSTAMP:20130131T203444Z
+UID:348216@mlb.com
+CREATED:20120910T224017Z
+DESCRIPTION:Atlanta at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_22_atlmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Atlanta at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_22_atlmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130723T191000
+DTEND;TZID=America/New_York:20130723T221000
+DTSTAMP:20130131T203444Z
+UID:348230@mlb.com
+CREATED:20120910T224018Z
+DESCRIPTION:Atlanta at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_23_atlmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Atlanta at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_23_atlmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130724T191000
+DTEND;TZID=America/New_York:20130724T221000
+DTSTAMP:20130131T203444Z
+UID:348245@mlb.com
+CREATED:20120910T224020Z
+DESCRIPTION:Atlanta at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_24_atlmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Atlanta at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_24_atlmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130725T121000
+DTEND;TZID=America/New_York:20130725T151000
+DTSTAMP:20130131T203444Z
+UID:348261@mlb.com
+CREATED:20120910T224022Z
+DESCRIPTION:Atlanta at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_25_atlmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Atlanta at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_25_atlmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130726T190500
+DTEND;TZID=America/New_York:20130726T220500
+DTSTAMP:20130131T203444Z
+UID:348279@mlb.com
+CREATED:20120910T224024Z
+DESCRIPTION:NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_26_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130124T163732Z
+LOCATION:Nationals Park, Washington
+SUMMARY:NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_26_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130727T150500
+DTEND;TZID=America/New_York:20130727T180500
+DTSTAMP:20130131T203444Z
+UID:348296@mlb.com
+CREATED:20120910T224026Z
+DESCRIPTION:NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_27_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130124T163732Z
+LOCATION:Nationals Park, Washington
+SUMMARY:NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_27_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130728T133500
+DTEND;TZID=America/New_York:20130728T163500
+DTSTAMP:20130131T203444Z
+UID:348310@mlb.com
+CREATED:20120910T224027Z
+DESCRIPTION:NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_28_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130124T163733Z
+LOCATION:Nationals Park, Washington
+SUMMARY:NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_28_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130729T191000
+DTEND;TZID=America/New_York:20130729T221000
+DTSTAMP:20130131T203444Z
+UID:348326@mlb.com
+CREATED:20120910T224029Z
+DESCRIPTION:NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_29_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Marlins Park, Miami
+SUMMARY:NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_29_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130730T191000
+DTEND;TZID=America/New_York:20130730T221000
+DTSTAMP:20130131T203444Z
+UID:348340@mlb.com
+CREATED:20120910T224031Z
+DESCRIPTION:NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_30_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Marlins Park, Miami
+SUMMARY:NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_30_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130731T191000
+DTEND;TZID=America/New_York:20130731T221000
+DTSTAMP:20130131T203444Z
+UID:348356@mlb.com
+CREATED:20120910T224033Z
+DESCRIPTION:NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_31_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=07&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Marlins Park, Miami
+SUMMARY:NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_07_31_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130801T124000
+DTEND;TZID=America/New_York:20130801T154000
+DTSTAMP:20130131T203444Z
+UID:348365@mlb.com
+CREATED:20120910T224034Z
+DESCRIPTION:NY Mets at Miami\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_01_nynmlb_miamlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Marlins Park, Miami
+SUMMARY:NY Mets at Miami
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_01_nynmlb_miamlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130802T191000
+DTEND;TZID=America/New_York:20130802T221000
+DTSTAMP:20130131T203444Z
+UID:348371@mlb.com
+CREATED:20120910T224034Z
+DESCRIPTION:Kansas City at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_02_kcamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Kansas City at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_02_kcamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130803T131000
+DTEND;TZID=America/New_York:20130803T161000
+DTSTAMP:20130131T203444Z
+UID:348386@mlb.com
+CREATED:20120910T224036Z
+DESCRIPTION:Kansas City at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_03_kcamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Kansas City at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_03_kcamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130804T131000
+DTEND;TZID=America/New_York:20130804T161000
+DTSTAMP:20130131T203444Z
+UID:348401@mlb.com
+CREATED:20120910T224038Z
+DESCRIPTION:Kansas City at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_04_kcamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Kansas City at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_04_kcamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130806T191000
+DTEND;TZID=America/New_York:20130806T221000
+DTSTAMP:20130131T203444Z
+UID:348424@mlb.com
+CREATED:20120910T224040Z
+DESCRIPTION:Colorado at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_06_colmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Colorado at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_06_colmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130807T191000
+DTEND;TZID=America/New_York:20130807T221000
+DTSTAMP:20130131T203444Z
+UID:348439@mlb.com
+CREATED:20120910T224042Z
+DESCRIPTION:Colorado at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_07_colmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Colorado at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_07_colmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130808T121000
+DTEND;TZID=America/New_York:20130808T151000
+DTSTAMP:20130131T203444Z
+UID:348452@mlb.com
+CREATED:20120910T224043Z
+DESCRIPTION:Colorado at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_08_colmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Colorado at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_08_colmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130809T214000
+DTEND;TZID=America/New_York:20130810T004000
+DTSTAMP:20130131T203444Z
+UID:348464@mlb.com
+CREATED:20120910T224045Z
+DESCRIPTION:NY Mets at Arizona\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_09_nynmlb_arimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Chase Field, Phoenix
+SUMMARY:NY Mets at Arizona
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_09_nynmlb_arimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130810T201000
+DTEND;TZID=America/New_York:20130810T231000
+DTSTAMP:20130131T203444Z
+UID:348481@mlb.com
+CREATED:20120910T224046Z
+DESCRIPTION:NY Mets at Arizona\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_10_nynmlb_arimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Chase Field, Phoenix
+SUMMARY:NY Mets at Arizona
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_10_nynmlb_arimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130811T161000
+DTEND;TZID=America/New_York:20130811T191000
+DTSTAMP:20130131T203444Z
+UID:348494@mlb.com
+CREATED:20120910T224048Z
+DESCRIPTION:NY Mets at Arizona\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_11_nynmlb_arimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Chase Field, Phoenix
+SUMMARY:NY Mets at Arizona
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_11_nynmlb_arimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130812T221000
+DTEND;TZID=America/New_York:20130813T011000
+DTSTAMP:20130131T203444Z
+UID:348513@mlb.com
+CREATED:20120910T224050Z
+DESCRIPTION:NY Mets at LA Dodgers\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_12_nynmlb_lanmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130109T225804Z
+LOCATION:Dodger Stadium, Los Angeles
+SUMMARY:NY Mets at LA Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_12_nynmlb_lanmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130813T221000
+DTEND;TZID=America/New_York:20130814T011000
+DTSTAMP:20130131T203444Z
+UID:348528@mlb.com
+CREATED:20120910T224052Z
+DESCRIPTION:NY Mets at LA Dodgers\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_13_nynmlb_lanmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130109T225804Z
+LOCATION:Dodger Stadium, Los Angeles
+SUMMARY:NY Mets at LA Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_13_nynmlb_lanmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130814T221000
+DTEND;TZID=America/New_York:20130815T011000
+DTSTAMP:20130131T203444Z
+UID:348543@mlb.com
+CREATED:20120910T224053Z
+DESCRIPTION:NY Mets at LA Dodgers\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_14_nynmlb_lanmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130109T225804Z
+LOCATION:Dodger Stadium, Los Angeles
+SUMMARY:NY Mets at LA Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_14_nynmlb_lanmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130815T221000
+DTEND;TZID=America/New_York:20130816T011000
+DTSTAMP:20130131T203444Z
+UID:348548@mlb.com
+CREATED:20120910T224054Z
+DESCRIPTION:NY Mets at San Diego\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_15_nynmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130124T163712Z
+LOCATION:Petco Park, San Diego
+SUMMARY:NY Mets at San Diego
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_15_nynmlb_sdnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130816T221000
+DTEND;TZID=America/New_York:20130817T011000
+DTSTAMP:20130131T203444Z
+UID:348561@mlb.com
+CREATED:20120910T224055Z
+DESCRIPTION:NY Mets at San Diego\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_16_nynmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130124T163712Z
+LOCATION:Petco Park, San Diego
+SUMMARY:NY Mets at San Diego
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_16_nynmlb_sdnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130817T204000
+DTEND;TZID=America/New_York:20130817T234000
+DTSTAMP:20130131T203444Z
+UID:348577@mlb.com
+CREATED:20120910T224057Z
+DESCRIPTION:NY Mets at San Diego\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_17_nynmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130124T163712Z
+LOCATION:Petco Park, San Diego
+SUMMARY:NY Mets at San Diego
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_17_nynmlb_sdnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130818T161000
+DTEND;TZID=America/New_York:20130818T191000
+DTSTAMP:20130131T203444Z
+UID:348591@mlb.com
+CREATED:20120910T224058Z
+DESCRIPTION:NY Mets at San Diego\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_18_nynmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130124T163713Z
+LOCATION:Petco Park, San Diego
+SUMMARY:NY Mets at San Diego
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_18_nynmlb_sdnmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130820T191000
+DTEND;TZID=America/New_York:20130820T221000
+DTSTAMP:20130131T203444Z
+UID:348611@mlb.com
+CREATED:20120910T224100Z
+DESCRIPTION:Atlanta at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_20_atlmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194206Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Atlanta at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_20_atlmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130821T131000
+DTEND;TZID=America/New_York:20130821T161000
+DTSTAMP:20130131T203444Z
+UID:348626@mlb.com
+CREATED:20120910T224102Z
+DESCRIPTION:Atlanta at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_21_atlmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Atlanta at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_21_atlmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130823T191000
+DTEND;TZID=America/New_York:20130823T221000
+DTSTAMP:20130131T203444Z
+UID:348650@mlb.com
+CREATED:20120910T224105Z
+DESCRIPTION:Detroit at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_23_detmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Detroit at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_23_detmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130824T191000
+DTEND;TZID=America/New_York:20130824T221000
+DTSTAMP:20130131T203444Z
+UID:348668@mlb.com
+CREATED:20120910T224107Z
+DESCRIPTION:Detroit at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_24_detmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130118T195832Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Detroit at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_24_detmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130825T131000
+DTEND;TZID=America/New_York:20130825T161000
+DTSTAMP:20130131T203444Z
+UID:348681@mlb.com
+CREATED:20120910T224108Z
+DESCRIPTION:Detroit at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_25_detmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Detroit at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_25_detmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130826T191000
+DTEND;TZID=America/New_York:20130826T221000
+DTSTAMP:20130131T203444Z
+UID:348696@mlb.com
+CREATED:20120910T224110Z
+DESCRIPTION:Philadelphia at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_26_phimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Philadelphia at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_26_phimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130827T191000
+DTEND;TZID=America/New_York:20130827T221000
+DTSTAMP:20130131T203444Z
+UID:348710@mlb.com
+CREATED:20120910T224112Z
+DESCRIPTION:Philadelphia at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_27_phimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Philadelphia at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_27_phimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130828T191000
+DTEND;TZID=America/New_York:20130828T221000
+DTSTAMP:20130131T203444Z
+UID:348725@mlb.com
+CREATED:20120910T224113Z
+DESCRIPTION:Philadelphia at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_28_phimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Philadelphia at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_28_phimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130829T131000
+DTEND;TZID=America/New_York:20130829T161000
+DTSTAMP:20130131T203444Z
+UID:348739@mlb.com
+CREATED:20120910T224115Z
+DESCRIPTION:Philadelphia at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_29_phimlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Philadelphia at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_29_phimlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130830T190500
+DTEND;TZID=America/New_York:20130830T220500
+DTSTAMP:20130131T203444Z
+UID:348748@mlb.com
+CREATED:20120910T224116Z
+DESCRIPTION:NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_30_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130124T163738Z
+LOCATION:Nationals Park, Washington
+SUMMARY:NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_30_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130831T190500
+DTEND;TZID=America/New_York:20130831T220500
+DTSTAMP:20130131T203444Z
+UID:348764@mlb.com
+CREATED:20120910T224118Z
+DESCRIPTION:NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_31_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=08&y=2013\n
+LAST-MODIFIED:20130124T163738Z
+LOCATION:Nationals Park, Washington
+SUMMARY:NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_08_31_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130901T033300
+DTEND;TZID=America/New_York:20130901T063300
+DTSTAMP:20130131T203444Z
+UID:348778@mlb.com
+CREATED:20120910T224119Z
+DESCRIPTION:NY Mets at Washington\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_01_nynmlb_wasmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130124T163739Z
+LOCATION:Nationals Park, Washington
+SUMMARY:NY Mets at Washington
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_01_nynmlb_wasmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130902T131000
+DTEND;TZID=America/New_York:20130902T161000
+DTSTAMP:20130131T203444Z
+UID:348793@mlb.com
+CREATED:20120910T224121Z
+DESCRIPTION:NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_02_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Turner Field, Atlanta
+SUMMARY:NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_02_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130903T191000
+DTEND;TZID=America/New_York:20130903T221000
+DTSTAMP:20130131T203444Z
+UID:348808@mlb.com
+CREATED:20120910T224123Z
+DESCRIPTION:NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_03_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Turner Field, Atlanta
+SUMMARY:NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_03_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130904T121000
+DTEND;TZID=America/New_York:20130904T151000
+DTSTAMP:20130131T203444Z
+UID:348823@mlb.com
+CREATED:20120910T224124Z
+DESCRIPTION:NY Mets at Atlanta\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_04_nynmlb_atlmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194430Z
+LOCATION:Turner Field, Atlanta
+SUMMARY:NY Mets at Atlanta
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_04_nynmlb_atlmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130906T190500
+DTEND;TZID=America/New_York:20130906T220500
+DTSTAMP:20130131T203444Z
+UID:348847@mlb.com
+CREATED:20120910T224127Z
+DESCRIPTION:NY Mets at Cleveland\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_06_nynmlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130124T163607Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:NY Mets at Cleveland
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_06_nynmlb_clemlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130907T180500
+DTEND;TZID=America/New_York:20130907T210500
+DTSTAMP:20130131T203444Z
+UID:348862@mlb.com
+CREATED:20120910T224128Z
+DESCRIPTION:NY Mets at Cleveland\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_07_nynmlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130124T163608Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:NY Mets at Cleveland
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_07_nynmlb_clemlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130908T130500
+DTEND;TZID=America/New_York:20130908T160500
+DTSTAMP:20130131T203444Z
+UID:348877@mlb.com
+CREATED:20120910T224130Z
+DESCRIPTION:NY Mets at Cleveland\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_08_nynmlb_clemlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130124T163608Z
+LOCATION:Progressive Field, Cleveland
+SUMMARY:NY Mets at Cleveland
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_08_nynmlb_clemlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130909T191000
+DTEND;TZID=America/New_York:20130909T221000
+DTSTAMP:20130131T203444Z
+UID:348890@mlb.com
+CREATED:20120910T224132Z
+DESCRIPTION:Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_09_wasmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_09_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130910T191000
+DTEND;TZID=America/New_York:20130910T221000
+DTSTAMP:20130131T203444Z
+UID:348902@mlb.com
+CREATED:20120910T224133Z
+DESCRIPTION:Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_10_wasmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_10_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130911T191000
+DTEND;TZID=America/New_York:20130911T221000
+DTSTAMP:20130131T203444Z
+UID:348917@mlb.com
+CREATED:20120910T224135Z
+DESCRIPTION:Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_11_wasmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_11_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130912T131000
+DTEND;TZID=America/New_York:20130912T161000
+DTSTAMP:20130131T203444Z
+UID:348929@mlb.com
+CREATED:20120910T224136Z
+DESCRIPTION:Washington at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_12_wasmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Washington at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_12_wasmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130913T191000
+DTEND;TZID=America/New_York:20130913T221000
+DTSTAMP:20130131T203444Z
+UID:348940@mlb.com
+CREATED:20120910T224137Z
+DESCRIPTION:Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_13_miamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194431Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_13_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130914T161000
+DTEND;TZID=America/New_York:20130914T191000
+DTSTAMP:20130131T203444Z
+UID:348956@mlb.com
+CREATED:20120910T224139Z
+DESCRIPTION:Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_14_miamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130122T220750Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_14_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130915T131000
+DTEND;TZID=America/New_York:20130915T161000
+DTSTAMP:20130131T203444Z
+UID:348970@mlb.com
+CREATED:20120910T224141Z
+DESCRIPTION:Miami at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_15_miamlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Miami at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_15_miamlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130917T191000
+DTEND;TZID=America/New_York:20130917T221000
+DTSTAMP:20130131T203444Z
+UID:349001@mlb.com
+CREATED:20120910T224144Z
+DESCRIPTION:San Francisco at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_17_sfnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Citi Field, Flushing
+SUMMARY:San Francisco at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_17_sfnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130918T191000
+DTEND;TZID=America/New_York:20130918T221000
+DTSTAMP:20130131T203444Z
+UID:349016@mlb.com
+CREATED:20120910T224146Z
+DESCRIPTION:San Francisco at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_18_sfnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Citi Field, Flushing
+SUMMARY:San Francisco at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_18_sfnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130919T131000
+DTEND;TZID=America/New_York:20130919T161000
+DTSTAMP:20130131T203444Z
+UID:349029@mlb.com
+CREATED:20120910T224147Z
+DESCRIPTION:San Francisco at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_19_sfnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Citi Field, Flushing
+SUMMARY:San Francisco at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_19_sfnmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130920T190500
+DTEND;TZID=America/New_York:20130920T220500
+DTSTAMP:20130131T203444Z
+UID:349047@mlb.com
+CREATED:20120910T224149Z
+DESCRIPTION:NY Mets at Philadelphia\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_20_nynmlb_phimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194432Z
+LOCATION:Citizens Bank Park, Philadelphia
+SUMMARY:NY Mets at Philadelphia
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_20_nynmlb_phimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130921T190500
+DTEND;TZID=America/New_York:20130921T220500
+DTSTAMP:20130131T203444Z
+UID:349063@mlb.com
+CREATED:20120910T224151Z
+DESCRIPTION:NY Mets at Philadelphia\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_21_nynmlb_phimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citizens Bank Park, Philadelphia
+SUMMARY:NY Mets at Philadelphia
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_21_nynmlb_phimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130922T133500
+DTEND;TZID=America/New_York:20130922T163500
+DTSTAMP:20130131T203444Z
+UID:349077@mlb.com
+CREATED:20120910T224153Z
+DESCRIPTION:NY Mets at Philadelphia\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_22_nynmlb_phimlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citizens Bank Park, Philadelphia
+SUMMARY:NY Mets at Philadelphia
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_22_nynmlb_phimlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130923T191000
+DTEND;TZID=America/New_York:20130923T221000
+DTSTAMP:20130131T203444Z
+UID:349084@mlb.com
+CREATED:20120910T224153Z
+DESCRIPTION:NY Mets at Cincinnati\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_23_nynmlb_cinmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Great American Ball Park, Cincinnati
+SUMMARY:NY Mets at Cincinnati
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_23_nynmlb_cinmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130924T191000
+DTEND;TZID=America/New_York:20130924T221000
+DTSTAMP:20130131T203444Z
+UID:349097@mlb.com
+CREATED:20120910T224155Z
+DESCRIPTION:NY Mets at Cincinnati\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_24_nynmlb_cinmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Great American Ball Park, Cincinnati
+SUMMARY:NY Mets at Cincinnati
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_24_nynmlb_cinmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130925T123500
+DTEND;TZID=America/New_York:20130925T153500
+DTSTAMP:20130131T203444Z
+UID:349112@mlb.com
+CREATED:20120910T224157Z
+DESCRIPTION:NY Mets at Cincinnati\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_25_nynmlb_cinmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Great American Ball Park, Cincinnati
+SUMMARY:NY Mets at Cincinnati
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_25_nynmlb_cinmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130926T191000
+DTEND;TZID=America/New_York:20130926T221000
+DTSTAMP:20130131T203444Z
+UID:349125@mlb.com
+CREATED:20120910T224158Z
+DESCRIPTION:Milwaukee at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_26_milmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Milwaukee at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_26_milmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130927T191000
+DTEND;TZID=America/New_York:20130927T221000
+DTSTAMP:20130131T203444Z
+UID:349133@mlb.com
+CREATED:20120910T224159Z
+DESCRIPTION:Milwaukee at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_27_milmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194433Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Milwaukee at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_27_milmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130928T161000
+DTEND;TZID=America/New_York:20130928T191000
+DTSTAMP:20130131T203444Z
+UID:349150@mlb.com
+CREATED:20120910T224201Z
+DESCRIPTION:Milwaukee at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_28_milmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130122T220655Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Milwaukee at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_28_milmlb_nynmlb_1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20130929T131000
+DTEND;TZID=America/New_York:20130929T161000
+DTSTAMP:20130131T203444Z
+UID:349164@mlb.com
+CREATED:20120910T224202Z
+DESCRIPTION:Milwaukee at NY Mets\n\nClick below for game previews, wraps and boxscores plus video, tickets, stats, gameday and more!\nhttp://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_29_milmlb_nynmlb_1\n\nWatch or Listen with MLB.TV: http://mlb.mlb.com/schedule/index.jsp?c_id=nym&m=09&y=2013\n
+LAST-MODIFIED:20130108T194434Z
+LOCATION:Citi Field, Flushing
+SUMMARY:Milwaukee at NY Mets
+TRANSP:TRANSPARENT
+SEQUENCE:0
+URL:http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2013_09_29_milmlb_nynmlb_1
+END:VEVENT
+END:VCALENDAR
