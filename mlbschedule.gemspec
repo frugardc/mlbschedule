@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Mlbschedule::VERSION
   gem.authors       = ["Christian Frugard"]
   gem.email         = ["frugardc@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{MLB Schedule Gem}
+  gem.summary       = %q{Interface to the MLB Schedule on the mlb site.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
