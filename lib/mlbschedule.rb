@@ -38,6 +38,12 @@ module Mlbschedule
 				game = MlbGame.new
 				game.mlb_game_time = event.dtend
 				game.mlb_game_id = event.uid
+				if not (mlb_field = mlb_season.mlb_fields[event.location])
+					mlb_field = MlbField.new({:name => event.location})
+					mlb_season.mlb_fields[event.location] = mlb_field
+				end
+				mlb_field.mlb_game_ids << game.mlb_game_id
+				game.mlb_field = mlb_field
 				mlb_season.mlb_games[event.uid] = game
 				team.mlb_game_ids << event.uid
 			end

@@ -4,5 +4,6 @@ class MlbSeason
 	def initialize
 		@mlb_games = {}
 		@mlb_teams = {}
+		@mlb_fields = {}
 	end
 end
