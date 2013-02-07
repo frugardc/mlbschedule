@@ -7,7 +7,7 @@ require "#{File.expand_path(File.dirname(__FILE__))}/mlb_field.rb"
 require "#{File.expand_path(File.dirname(__FILE__))}/mlb_game.rb"
 module Mlbschedule
 	def self.retrieve_data(season = Time.now.year.to_s,refresh = false)
-		if refresh
+		if refresh or ( File.exist?("#{File.expand_path(File.dirname(__FILE__))}/../data/raw_#{season}.dmp") == false )
 			teams = {}
 			require 'open-uri'
 			100.upto(200) do |i|
@@ -27,10 +27,10 @@ module Mlbschedule
 		return teams
 	end
 
-	def self.save(season = Time.now.year.to_s)
+	def self.save(season = Time.now.year.to_s, refresh = false)
 		mlb_season = MlbSeason.new
 		mlb_season.mlb_year = season
-		data = self.retrieve_data(season)
+		data = self.retrieve_data(season,refresh)
 		data.each do |team_name,calendar|
 			team = MlbTeam.new
 			team.name = team_name
@@ -54,8 +54,8 @@ module Mlbschedule
 	end
 
 	def self.season(season = Time.now.year.to_s, refresh= false)
-		if refresh
-			self.save(season)
+		if refresh or ( File.exist?("#{File.expand_path(File.dirname(__FILE__))}/../data/processed_#{season}.dmp") == false )
+			self.save(season,true)
 		end
 		Marshal.load(File.read("#{File.expand_path(File.dirname(__FILE__))}/../data/processed_#{season}.dmp"))
 	end
