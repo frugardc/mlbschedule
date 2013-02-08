@@ -7,6 +7,7 @@ class MlbField
 			end
 		end
 		if self.name
+			sleep 0.5
 			geocode = Geocoder.search(self.name)
 			if gcode = geocode.first
 				self.city = gcode.city
